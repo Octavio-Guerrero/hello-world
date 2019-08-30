@@ -1,2 +1,3 @@
 # hello-world
 Curso de Github
+Estaré llevando este minicurso en el afan de aprender de esta herramienta y poder manejarla con soltura...
